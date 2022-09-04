@@ -9,7 +9,7 @@ object P_7_GridTraveller_Tabulation {
     println()
   }
 
-  //O(n)
+  
   //Step 1: Tablulate -- 2-D
   //Step 2: Size the table -- rxc with zero bound for init.
   //Step 3: Seed value: 0

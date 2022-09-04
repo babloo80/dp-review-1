@@ -4,6 +4,7 @@ import scala.collection.mutable.Buffer
 object P_6_Fib_Tabulation {
 
   //O(n)
+  //table = [0, 0, 0, 0, 0, 0, 0]
   def fib(n: Int): Int = {
     val table = Array.fill[Int](n+1)( 0) //Array.ofDim[Int](n)
     for(i <- 0 to n) {
