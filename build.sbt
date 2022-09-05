@@ -1,1 +1,1 @@
-name := "dynamic_prog_review_1"
+name := "dp-review-1"
